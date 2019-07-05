@@ -10,7 +10,8 @@
 | [tensorflow_i7_8700-1.13.1-cp36-cp36m-linux_x86_64.whl](https://drive.google.com/uc?export=download&id=1hiDnK6vbfSBgGafWVrrK_WAP2gx8G4h3) | Intel Core i7-8700 3.2GHz×12 | не поддерживается |
 | [tensorflow_i7_8700_GeForceGTX1070-1.13.1-cp36-cp36m-linux_x86_64.whl](https://drive.google.com/uc?export=download&id=1skGMKtKdf6ekhBm14KLgLBCDRId94Bcq) | Intel Core i7-8700 3.2GHz×12 | NVIDIA GeForce 1070 |
 | [tensorflow_E3_1270-1.13.1-cp36-cp36m-linux_x86_64.whl](https://drive.google.com/uc?export=download&id=17h4R0E-f3DFTFc_hDBkW73kIsvbyHV7h) | Intel Xeon E3-1270 v3 3.5GHz×8 | не поддерживается |
-| ... | Intel Xeon E5645 2.4GHz×12 | не поддерживается |
+| [tensorflow_X5650-1.13.2-cp36-cp36m-linux_x86_64.whl](https://drive.google.com/uc?export=download&id=1ND8eHg2CUdi850fFFAy1hyzUX-YYWUOb) | Intel Xenon X5650 2.6GHz×12 | не поддерживается |
+| [tensorflow_X5650_GeForceRTX2080-1.13.2-cp36-cp36m-linux_x86_64.whl](https://drive.google.com/uc?export=download&id=1SXb3qZM82noZXj_IK3NKRGfH0k9G5MYH) | Intel Xenon X5650 2.6GHz×12 | NVIDIA GeForce RTX 2080 Ti |
 | ... | ... | ... |
 
 
