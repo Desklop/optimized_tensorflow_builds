@@ -1,2 +1,11 @@
-test/
+tensorflow/
+source*/
+TEMP/
+mkl*/
+env_*/
+built_*/
+bazel*.sh
 *.whl
+tensorflow*.zip
+temp*
+test*
