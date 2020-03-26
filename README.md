@@ -50,10 +50,10 @@ pip3 install tensorflow_cpu_noALL_XLA-1.15.2-cp37-cp37m-linux_x86_64.whl
 rm tensorflow_cpu_noALL_XLA-1.15.2-cp37-cp37m-linux_x86_64.whl
 ```
 
-3. Использовать **скрипт для автоматического определения, загрузки и установки подходящей версии** [`install_custom_tensorflow_v1.15.2.sh`](https://github.com/Desklop/optimized_tensorflow_wheels/blob/master/install_custom_tensorflow_v1.15.2.sh):
+3. Использовать **скрипт для автоматического определения, загрузки и установки подходящей версии** [`install_optimized_tensorflow_v1.15.2.sh`](https://github.com/Desklop/optimized_tensorflow_wheels/blob/master/install_optimized_tensorflow_v1.15.2.sh):
 
 ```bash
-./install_custom_tensorflow_v1.15.2.sh [-mkl|-gpu]
+./install_optimized_tensorflow_v1.15.2.sh [-mkl|-gpu]
 ```
 
 Данный скрипт определяет поддерживаемые текущим CPU инструкции, версию Python и CUDA, выбирает наиболее подходящую версию TensorFlow, загружает её из [папки в Google Drive](https://drive.google.com/open?id=1rCAwqxlsEmqFCXHKkZCu3X5AOoa6Iz6o) и устанавливает. Если подходящей версии TensorFlow не найдено, будет установлена версия из pip.
